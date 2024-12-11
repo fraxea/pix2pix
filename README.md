@@ -14,7 +14,7 @@ The loss of discriminator/generator for train/val for $50$ epochs.
 
 ## Loss function
 
-For more details see the [notebook](https://github.com/fraxea/pix2pix/pix2pix-conditional-gan-in-cityscapes.ipynb).
+For more details see the [notebook](https://github.com/fraxea/pix2pix/blob/main/pix2pix-conditional-gan-in-cityscapes.ipynb).
 
 ### Discriminator
 
